@@ -10,12 +10,12 @@ I'm a beatlemanica & Rosario Central fan from 5 to 8. Ringo is my fourth favorit
 
 📝 I'm currently teaching myself 🐍 **[python](https://github.com/fededc88/100-days-of-code)**.
 
-🌴 In my free time you can find me hiking the appalachian trails ⛰️, racing RC cars 🚗 or playing chess ♟️. Everything well seasoned with music.
+🌴 In my free time you can find me hiking the appalachian trails ⛰️, racing RC cars 🚗 or playing chess ♟️. Everything well seasoned with Rock & Roll.
 
 ---
 
 ## 📫 Any kind of submissions are welcome! 
-[Twitter](https://twitter.com/fededc) | [fededc88@gmail.com](fededc88@gmail.com)
+[Twitter](https://twitter.com/fededc) | [fededc88@gmail.com](fededc88@gmail.com) | [in/federico-ceccarelli](https://www.linkedin.com/in/federico-ceccarelli/)
 
 <!--
 **fededc88/fededc88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
