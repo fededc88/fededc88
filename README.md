@@ -14,7 +14,7 @@ I'm a beatlemanica & Rosario Central fan from 5 to 8. Ringo is my fourth favorit
 
 ---
 
-## 📫 Any kind of submissions are welcome! 
+## 📫 All kind of submissions are welcome! 
 [Twitter](https://twitter.com/fededc) | [fededc88@gmail.com](fededc88@gmail.com) | [in/federico-ceccarelli](https://www.linkedin.com/in/federico-ceccarelli/)
 
 <!--
