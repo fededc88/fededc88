@@ -1,7 +1,7 @@
 # Hey there! My name is Federico 👋
 
 ## I'm an Electronic Engineer enchanted by microcontrollers
-I've been working as an Embedded Software Engineer for the last years. I mostly develop in C/C++ the lower level I can. I do some Model Based Development and try to put together some PCBA every now and then.<br>
+I've been working as an Embedded Software Engineer since 2019. I mostly develop in C/C++ the lower level I can. I do some Model Based Development and try to put together some PCBA every now and then.<br>
 
 I'm a beatlemanica & Rosario Central fan from 5 to 8. Ringo is my fourth favorite beatle!
 
