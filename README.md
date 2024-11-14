@@ -1,16 +1,16 @@
 # Hey there! My name is Federico 👋
 
 ## I'm an Electronic Engineer enchanted by microcontrollers
-
-I've been working as Embedded Software Engineer for the last 5 years.  
+I've been working as an Embedded Software Engineer for the last years. I mostly develop in C/C++ the lower level I can. I do some Model Based Development and try to put together some PCBA every now and then.<br>
 
 I'm a beatlemanica & Rosario Central fan from 5 to 8. Ringo is my fourth favorite beatle!
 
 ---
+📝 I'm always learning C/C++ 👩‍💻.<br>
+🌱 I'm currently teaching myself 🐍 **[python](https://github.com/fededc88/100-days-of-code)**.<br>
+🔭 I’m a proud Vim user. Check **[FDC.vimrc](https://github.com/fededc88/FDC.vimrc)**
 
-📝 I'm currently teaching myself 🐍 **[python](https://github.com/fededc88/100-days-of-code)**.
-
-🌴 In my free time you can find me hiking the appalachian trails ⛰️, racing RC cars 🚗 or playing chess ♟️. Everything well seasoned with Rock & Roll.
+🌴 In my free time you can find me running 👟, hiking the appalachian trails ⛰️, racing RC cars 🚗 or playing chess ♟️. Everything well seasoned with Rock & Roll music 🎶.
 
 ---
 
